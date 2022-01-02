@@ -502,8 +502,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     top: 50%;
     left: 0;
     display: block;
-    width: 35px;
-    max-width: 25%;
+    
+    width: 40px;
+    //max-width: 25%;
     height: 32px;
     margin-top: -28px;
     margin-left: 25px;
@@ -511,7 +512,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .navbar-logo img {
-    width: auto;
+    width: 40px;
     height: 56px;
     outline: 0
 }
@@ -547,6 +548,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .navbar-mobile-menu:active, .navbar-mobile-menu:hover {
     cursor: pointer
+
     
 }
 
@@ -565,11 +567,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .navbar-mobile-menu:active .icon-menu.cross .middle, .navbar-mobile-menu:active .icon-menu.cross:after, .navbar-mobile-menu:active .icon-menu.cross:before, .navbar-mobile-menu:hover .icon-menu.cross .middle, .navbar-mobile-menu:hover .icon-menu.cross:after, .navbar-mobile-menu:hover .icon-menu.cross:before {
-    background: #eb5055
+    background: #EB9100
 }
 
 .navbar-mobile-menu:active .icon-menu.cross .middle, .navbar-mobile-menu:hover .icon-menu.cross .middle {
-    opacity: 0
+    opacity: 0;
+    background: #EB9100
 }
 
 .navbar-mobile-menu:active .icon-menu.cross:after, .navbar-mobile-menu:hover .icon-menu.cross:after {
