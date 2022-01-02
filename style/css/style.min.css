@@ -521,13 +521,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     display: inline-block;
     width: auto;
     padding-right: 5px;
-    text-decoration-color: var(--orange)
+    text-decoration-color: orangered
 }
 
 .navbar-menu a {
     padding: 0 15px;
-    font-size: 15px
-    text-decoration-color: var(--orange)
+    font-size: 15px;
+    text-decoration-color: orangered
 }
 
 .navbar-menu a.current {
