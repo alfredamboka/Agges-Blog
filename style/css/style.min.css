@@ -590,6 +590,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     position: relative;
     display: inline;
     margin: 0;
+    color: #EB9100;
     text-decoration: none
 }
 
@@ -627,6 +628,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     width: 140px;
     margin: 0;
     padding: 8px 25px;
+    color: #EB9100;
     background-color: #eee
 }
 
