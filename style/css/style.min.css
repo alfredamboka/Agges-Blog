@@ -546,7 +546,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .navbar-mobile-menu:active, .navbar-mobile-menu:hover {
-    cursor: pointer
+    cursor: pointer;
+    color: #EB9100
 }
 
 .navbar-mobile-menu:active:before, .navbar-mobile-menu:hover:before {
