@@ -520,13 +520,14 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     z-index: 10;
     display: inline-block;
     width: auto;
-    padding-right: 5px
+    padding-right: 5px;
+    color: var(--orange)
 }
 
 .navbar-menu a {
     padding: 0 15px;
-    font-size: 15px;
-    color: var(--orange)
+    font-size: 15px
+    
 }
 
 .navbar-menu a.current {
@@ -632,7 +633,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     display: inline-block;
     width: 20px;
     padding: 0 40px 0 0;
-    cursor: pointer
+    cursor: pointer;
+    background: #fff
 }
 
 .navbar-search:active>form, .navbar-search:focus>form, .navbar-search:hover>form {
