@@ -14,9 +14,17 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 markdown: kramdown
 comments :
+disqus:
+    shortname:  coveordblog #false to disable
+
   gitalk :
     clientID : 
     clientSecret : 
     repo : 
     owner : 
     admin : 
+
+# Analytics
+  analytics:
+    google: true
+    coveo: true
