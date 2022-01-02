@@ -540,7 +540,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     display: none;
     width: 28px;
     padding: 0 45px 0 10px;
-    cursor: pointer
+    cursor: pointer;
+    color: #EB9100
+
 }
 
 .navbar-mobile-menu:active, .navbar-mobile-menu:hover {
