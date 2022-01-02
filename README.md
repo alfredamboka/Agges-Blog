@@ -2,15 +2,6 @@
 
 a jekyll theme which is based on a typecho theme pinghsu
 
-## Preview
-
-[Lightfish Blog](http://lightfish.cn)
-
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview.png)
-
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview2.png)
-
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview3.png)
 
 ## How to start
 
@@ -77,12 +68,6 @@ some config about gitalk, please reference to [gitalk](https://github.com/gitalk
 
 run `bundle install` and `jekyll server` to preview site on you computer, more question about jekyll, reference to [jekyll](http://jekyllrb.com)
 
-
-
-## Developer
-
-- [chakhsu](https://github.com/chakhsu)
-- [lightfish-zhang](https://github.com/lightfish-zhang)
 
 ## Thanks
 
