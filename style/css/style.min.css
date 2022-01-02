@@ -503,7 +503,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     left: 0;
     display: block;
     width: auto;
-    max-width: 50%;
+    max-width: 20%;
     height: 32px;
     margin-top: -28px;
     margin-left: 25px;
