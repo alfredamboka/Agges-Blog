@@ -546,8 +546,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .navbar-mobile-menu:active, .navbar-mobile-menu:hover {
-    cursor: pointer;
-    color: #EB9100
+    cursor: pointer
+    
 }
 
 .navbar-mobile-menu:active:before, .navbar-mobile-menu:hover:before {
@@ -557,10 +557,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     animation-timing-function: cubic-bezier(.61, .04, .17, 1.32)
 }
 
-.navbar-mobile-menu:active .icon-menu, .navbar-mobile-menu:hover .icon-menu {
+.navbar-mobile-menu:sactive .icon-menu, .navbar-mobile-menu:hover .icon-menu {
     -webkit-transform: rotateZ(360deg);
     -ms-transform: rotateZ(360deg);
-    transform: rotateZ(360deg)
+    transform: rotateZ(360deg);
+    color: #EB9100
 }
 
 .navbar-mobile-menu:active .icon-menu.cross .middle, .navbar-mobile-menu:active .icon-menu.cross:after, .navbar-mobile-menu:active .icon-menu.cross:before, .navbar-mobile-menu:hover .icon-menu.cross .middle, .navbar-mobile-menu:hover .icon-menu.cross:after, .navbar-mobile-menu:hover .icon-menu.cross:before {
