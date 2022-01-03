@@ -70,32 +70,32 @@ h1 code, h1 tt, h2 code, h2 tt, h3 code, h3 tt, h4 code, h4 tt, h5 code, h5 tt, 
 
 h1 {
     font-size: 1.4em;
-    color: #222
+    color: darkred
 }
 
 h2 {
     font-size: 1.3em;
-    color: #333
+    color: orangered
 }
 
 h3 {
     font-size: 1.2em;
-    color: #444
+    color: #5faca1
 }
 
 h4 {
     font-size: 1.1em;
-    color: #555
+    color: lightblue
 }
 
 h5 {
     font-size: 1em;
-    color: #555
+    color: blueviolet
 }
 
 h6 {
     font-size: 1em;
-    color: #555
+    color: darkslateblue
 }
 
 body>h1:first-child, body>h1:first-child+h2, body>h2:first-child, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
