@@ -541,11 +541,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     z-index: 1;
     display: none;
     width: 55px;
-    height: 30px;
-    margin-top:20px;
-    margin-bottom: 20px;
-    padding-top: 7.5px;
-    padding-bottom: 7.5px;
+    height: 40px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-right: 20px;
     cursor: pointer;
     background: darkgoldenrod;
