@@ -506,7 +506,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     width: 50px;
     //max-width: 25%;
     height: 22px;
-    margin-top: -28px;
+    margin-top: -24px;
     margin-left: 25px;
     text-decoration: none
 }
@@ -514,7 +514,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .navbar-logo img {
     width: 50px;
     height: 22px;
-    margin-top:15px
+    margin-top: -24px;
+    margin-bottom: 24px;
     outline: 0
 }
 
@@ -540,12 +541,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     line-height: 70px;
     z-index: 1;
     display: none;
-    width: 25px;
-    height: 25px
-    margin-top: auto;
-    margin-bottom:auto;
-    margin-left: 10px
-    padding: 0 20px 0 10px;
+    width: 30px;
+    height: 30px
+    margin-top: 20 px;
+    margin-bottom:20px;
+    margin-left: 30px
+    /*padding: 0 20px 0 10px;*/
     cursor: pointer;
     background: rgba(243, 241, 242, 0.863);
     color: #EB9100
