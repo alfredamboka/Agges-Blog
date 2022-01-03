@@ -540,12 +540,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     line-height: 70px;
     z-index: 1;
     display: none;
-    width: 45px;
-    height: 30px;
-    margin-top: 20 px;
-    margin-bottom:20px;
+    width: 55px;
+    height: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     margin-left: 30px;
-    padding: 0 10px 0 10px;
     cursor: pointer;
     background: darkgoldenrod;
     color: #EB9100
