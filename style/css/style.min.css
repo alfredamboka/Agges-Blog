@@ -373,6 +373,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     display: inline-block;
     width: 20px;
     height: 12px;
+    margin-bottom: 5px;
     -webkit-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
     -webkit-transition-timing-function: cubic-bezier(.61, .04, .17, 1.32);
@@ -544,7 +545,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     height: 40px;
     margin-top:15px;
     margin-bottom: 15px;
-    padding-top: 5px;
+    padding-top: 0 px;
     padding-bottom: 5px;
     margin-right: 20px;
     cursor: pointer;
