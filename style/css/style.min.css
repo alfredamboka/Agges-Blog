@@ -506,7 +506,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     width: 50px;
     //max-width: 25%;
     height: 22px;
-    margin-top: -24px;
+    margin-top: 24px;
     margin-left: 25px;
     text-decoration: none
 }
@@ -514,7 +514,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .navbar-logo img {
     width: 50px;
     height: 22px;
-    margin-top: -24px;
+    margin-top: 24px;
     margin-bottom: 24px;
     outline: 0
 }
