@@ -542,6 +542,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     width: 28px;
     padding: 0 45px 0 10px;
     cursor: pointer;
+    background: rgba(243, 241, 242, 0.863);
     color: #EB9100
 
 }
