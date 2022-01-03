@@ -8,7 +8,10 @@ icon: note
 ---
 
 
-<!--
+* content
+{:toc}
+
+
 # **Important GIS mapping resources**
 
 In this article we will provide a list of resources to use while learning mapping concepts. Links to tools are also provided to maximize and use them appropriately in your project and learning process.
@@ -36,4 +39,3 @@ Transforming world  reality to 3D space has made GIS different.  In CAD software
 
 Autodesk softwares are premium but they provide free versions for student. To get started as a student unlock the student educational access and you will be able to download. For those whore aren't students you can have [free trial here(<https://autode.sk/3eLI09n>)] then subscribe to there annual plan.
 
--->
