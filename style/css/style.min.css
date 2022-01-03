@@ -540,7 +540,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     z-index: 1;
     display: none;
     width: 28px;
-    padding: 0 45px 0 10px;
+    padding: 15 30px 15 15px;
     cursor: pointer;
     background: rgba(243, 241, 242, 0.863);
     color: #EB9100
