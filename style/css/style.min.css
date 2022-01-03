@@ -514,6 +514,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .navbar-logo img {
     width: 50px;
     height: 22px;
+    margin-top:15px
     outline: 0
 }
 
@@ -540,7 +541,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     z-index: 1;
     display: none;
     width: 28px;
-    padding: 15 30px 15 15px;
+    margin-top: 15px;
+    margin-bottom:15px;
+    padding: 0 45px 0 10px;
     cursor: pointer;
     background: rgba(243, 241, 242, 0.863);
     color: #EB9100
