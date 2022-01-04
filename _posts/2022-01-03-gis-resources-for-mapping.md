@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geospatial Mapping Resources
-date: 2022-01-02 14:00:00 +0900
+date: 2022-01-03 14:00:00 +0900
 category: Resources
 tags: 
   -GIS

@@ -4,8 +4,13 @@ url:  "https://agges-blog-site.netlify.app/"
 baseurl: 
 resume_site: 
 description: 
+
 github_username: 
-github: 
+email:  
+twitter:    
+facebook: 
+linkedIn_username:
+
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -23,3 +28,12 @@ defaults:
     values:
       comments: true
 
+
+# Sharing settings
+sharing:
+  twitter:    true
+  facebook:   true
+  gplus:      true
+
+# Google Analytics
+google_analytics: G-V1SMPM911M

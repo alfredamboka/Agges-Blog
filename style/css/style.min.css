@@ -506,8 +506,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     
     width: 50px;
     //max-width: 25%;
-    height: 22px;
-    margin-top: -5px;
+    height: 40px;
+    margin-top: -20px;
     margin-left: 25px;
     text-decoration: none
 }
