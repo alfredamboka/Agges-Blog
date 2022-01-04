@@ -1,6 +1,6 @@
 name: 
 author: 
-url: 
+url:  "https://agges-blog-site.netlify.app/"
 baseurl: 
 resume_site: 
 description: 
@@ -13,10 +13,13 @@ paginate_path: "/page/:num/"
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 markdown: kramdown
-comments :
-  gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+comments:
+  provider: "disqus"
+  disqus:
+  shortname: "jkuatagges-club"
+
+# Defaults
+defaults:
+    values:
+      comments: true
+
