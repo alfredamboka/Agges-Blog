@@ -1,7 +1,5 @@
 # Theme pinghsu-jekyll
 
-a jekyll theme which is based on a typecho theme pinghsu
-
 
 ## How to start
 
@@ -11,13 +9,13 @@ example
 
 ```yaml
 name: A Blog
-author: Lightfish Zhang
-url: https://lightfish-zhang.github.io
-resume_site: https://lightfish-zhang.github.io
+author: Alfred Amboka
+url: https:
+resume_site: 
 baseurl: 
-description: you website desc
-github_username: lightfish-zhang
-github: https://github.com/lightfish-zhang
+description: you web description
+github_username: alfredamboka
+github: https://github.com/alfredamboka
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -26,13 +24,7 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 markdown: kramdown
 comments :
-  gitalk :
-    clientID : xxx
-    clientSecret : xxx
-    repo : lightfish-zhang.github.io
-    owner : lightfish-zhang
-    admin : lightfish-zhang
-
+analytics:
 ```
 
 - add your post in path `./_post`, format : 
@@ -73,5 +65,4 @@ run `bundle install` and `jekyll server` to preview site on you computer, more q
 
 - [jekyll](http://jekyllrb.com) git page engine
 - [pinghsu](https://github.com/chakhsu/pinghsu), a typecho theme, it's a great design.
-- [gitalk](https://github.com/gitalk/gitalk) git page comment engine, it depends on github issue.
 - [smoothscroll](https://www.smoothscroll.net/mac/) SmoothScroll will give your mouse wheel (Finder, Safari, Chrome, etc.) buttery smooth scrolling
