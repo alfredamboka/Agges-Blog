@@ -56,8 +56,6 @@ add the thumbnail url
 such as book, code, web, chat, note, game, link, design, image
 ```
 
-some config about gitalk, please reference to [gitalk](https://github.com/gitalk/gitalk)
-
 run `bundle install` and `jekyll server` to preview site on you computer, more question about jekyll, reference to [jekyll](http://jekyllrb.com)
 
 
