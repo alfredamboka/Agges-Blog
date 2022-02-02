@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: A Example Post
 date: 2021-12-28 00:00:00 +0800
 
