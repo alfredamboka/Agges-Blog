@@ -1,5 +1,5 @@
 ---
-layout: events
+layout: post
 title: Weekly Events
 ---
 
