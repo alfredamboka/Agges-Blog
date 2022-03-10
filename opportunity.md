@@ -10,7 +10,7 @@ title: Internship, Attachment, and Employment Opportunities.
 
 Don't be left behind whenever such amazing opportunities are available. Frequently visit this page as we will try to update our users to maximize these resources.
 
-[ ]  [KPLC industrial attachment opportunity. (May - July, 2022).](<https://bit.ly/3HSZk8A>){target="_blank"}
+[ ]  [KPLC industrial attachment opportunity. (May - July, 2022).](https://bit.ly/3HSZk8A){target="_blank"}
 
 # Internship opportunities.
 
