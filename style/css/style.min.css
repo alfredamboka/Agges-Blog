@@ -488,7 +488,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .navbar-container {
-    position:fixed; z-index: 10 /*relative;*/
+    position:fixed; z-index: 5; top:0; /*relative;*/
     width: 100%;
     //max-width: 100%;
     height: 70px;
@@ -525,13 +525,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     display: inline-block;
     width: auto;
     padding-right: 5px;
-    color: #EB9100
+    color: #25274d;
 }
 
 .navbar-menu a {
     padding: 0 15px;
     font-size: 15px;
-    color: #EB9100
+    color: #25274d;
 }
 
 .navbar-menu a.current {
@@ -551,7 +551,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     margin-right: 20px;
     cursor: pointer;
     background: darkgoldenrod;
-    color: #EB9100
+    color: #25274d;
 
 }
 
@@ -572,16 +572,16 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     -webkit-transform: rotateZ(360deg);
     -ms-transform: rotateZ(360deg);
     transform: rotateZ(360deg);
-    background: #EB9100
+    background: #25274d;
 }
 
 .navbar-mobile-menu:active .icon-menu.cross .middle, .navbar-mobile-menu:active .icon-menu.cross:after, .navbar-mobile-menu:active .icon-menu.cross:before, .navbar-mobile-menu:hover .icon-menu.cross .middle, .navbar-mobile-menu:hover .icon-menu.cross:after, .navbar-mobile-menu:hover .icon-menu.cross:before {
-    background: #EB9100
+    background: #25274d;
 }
 
 .navbar-mobile-menu:active .icon-menu.cross .middle, .navbar-mobile-menu:hover .icon-menu.cross .middle {
     opacity: 0;
-    background: #EB9100
+    background: #25274d;
 }
 
 .navbar-mobile-menu:active .icon-menu.cross:after, .navbar-mobile-menu:hover .icon-menu.cross:after {
@@ -604,7 +604,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     position: relative;
     display: inline;
     margin: 0;
-    color: #EB9100;
+    color: #25274d;
     text-decoration: none
 }
 
@@ -642,7 +642,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     width: 140px;
     margin: 0;
     padding: 8px 25px;
-    color: #EB9100;
+    color: #25274d;
     background-color: #eee
 }
 
